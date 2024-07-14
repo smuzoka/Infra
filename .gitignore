@@ -1,0 +1,6 @@
+*.tfvars
+*.terraform
+*.tfstate
+
+# clone vm set-up
+#*.clone-VM.tf
